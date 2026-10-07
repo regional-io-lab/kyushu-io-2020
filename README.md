@@ -60,6 +60,10 @@
 
 ## 引用方法
 
+DOI：[https://doi.org/10.5281/zenodo.23211325](https://doi.org/10.5281/zenodo.23211325)
+
+引用の際は以下の形式をご利用ください。
+
 ```
 regional-io-lab (2026) 「九州9県統合地域間産業連関表（令和2年推計版）」Zenodo.
 https://doi.org/10.5281/zenodo.23211325
