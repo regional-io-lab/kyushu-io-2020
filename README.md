@@ -60,7 +60,7 @@
 
 ## 引用方法
 
-<!-- Zenodo DOI: https://doi.org/10.5281/zenodo.23211325 -->
+!-- Zenodo DOI: https://doi.org/10.5281/zenodo.23211325 --
 
 ```
 （作成者名）(2026)「九州9県統合地域間産業連関表（令和2年推計版）」
